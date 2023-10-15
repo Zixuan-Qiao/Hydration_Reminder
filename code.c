@@ -25,11 +25,11 @@ void loop()
   // get corresponding interval number
   int intervals = get_interval(temp);
   for(int i = 0; i < intervals; i++){
-  	lcd.clear();
-  	lcd.setCursor(0, 1);
+    lcd.clear();
+    lcd.setCursor(0, 1);
     lcd.print("Room temp:");
     lcd.print(temp);
-  	lcd.print("C");
+    lcd.print("C");
     temp = get_temp();    // update temperature data in each interval
     delay(5 * 60 * 1000);  // delay 5 mins for each interval
   }
