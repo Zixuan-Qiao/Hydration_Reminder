@@ -95,7 +95,7 @@ float get_temp(){
   return temp;
 }
 
-// ideal water hydration interval for me
+// ideal hydration interval for me
 int get_interval(float temp){
   if(temp < 15.0){
   	return 12;
