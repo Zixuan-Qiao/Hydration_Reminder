@@ -2,7 +2,7 @@
 Hydration reminder developed with Arduino platform. 
 
 ## Introduction
-The designed hydration reminder can collect room temperature data from TMP36 temperature sensor, determine the suitable hydration interval and send visual notifications through LEDs and LCD. The program measures time interval without pausing which implements real-time monitoring on user response. 
+The designed hydration reminder can collect room temperature data from TMP36 temperature sensor, determine the suitable hydration interval and send visual notifications through LEDs and LCD. The program measures time interval without pausing which implements **real-time** monitoring on user response. 
 
 ## Workflow:
 1. Collect room temperature data
