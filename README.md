@@ -22,12 +22,6 @@ The designed hydration reminder can collect room temperature data from TMP36 tem
 
 <img src="https://github.com/Zixuan-Qiao/learn/assets/102449059/0c4530fa-10b6-43fa-aae0-801472a77f83" width="320" height="400">
 
-## Language
-C/C++
-
-## Author
-Zixuan (Alex) Qiao
-
 ## References
 [1] https://www.arduino.cc/reference/en/
 
